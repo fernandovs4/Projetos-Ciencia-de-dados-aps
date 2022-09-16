@@ -1,1 +1,1 @@
-dados da aps1 tirado de https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+dados da aps1 tirado de https://data.worldbank.org/indicator
